@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# CUDA profiling
+log/
+trace.json
+
 # Distribution / packaging
 .Python
 build/
