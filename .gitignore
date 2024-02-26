@@ -8,6 +8,7 @@ __pycache__/
 
 # CUDA profiling
 log/
+tmp/
 trace.json
 
 # Distribution / packaging
